@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last newes from Bohemia, with all the adioyning prouinces that be now vp in armes. Wherein is related all the passages that haue happened since the high and mighty prince elector Palatine of the Rhine was elected and crowned King of Bohemia. With other accidents very delightfull to the reader..</title>
+         </titleStmt>
+         <extent>Approx. 42KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11658</idno><idno type="EEBO-CITATION">99891838</idno>
+  <idno type="VID">193599</idno>
+  <idno type="EEBO-PROQUEST">2240903618</idno>
+  
+            <idno type="STC">STC 3208</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.114.d.5[13]</idno>
+            <idno type="PROQUEST">ocm99891838</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891838e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193599)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C27:1[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last newes from Bohemia, with all the adioyning prouinces that be now vp in armes. Wherein is related all the passages that haue happened since the high and mighty prince elector Palatine of the Rhine was elected and crowned King of Bohemia. With other accidents very delightfull to the reader..</title>
+               </titleStmt>
+               <extent>[2], 5-34, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Bill?],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1620..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name conjectured by STC.</note>
+                  <note>Signatures: A-D⁴ E² (-A1, blank?).</note>
+                  <note>Title page vignette and tail-piece, a variant of McK. 382; head-piece, initial.</note>
+                  <note>Last leaf is blank.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Thirty Years' War, 1618-1648 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:193599:1"/>
+            <pb facs="tcp:193599:1"/>
+            <p>THE Last Newes from BOHEMIA, with all the adioyning Prouinces that be now vp in Armes.</p>
+            <p>Wherein is related all the passag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that haue happened since the high and mighty Prince Elector PALATINE of the <hi>Rhine</hi> was elected and Crowned King of BOHEMIA.</p>
+            <p>With other accidents very delightfull to the Reader.</p>
+            <figure/>
+            <p>1620.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:193599:2"/>
+            <pb n="5" facs="tcp:193599:2"/>
+            <head>THE LAST NEWES from BOHEMIA with all <hi>the adioyning Prouinces,</hi> that be now vp in Armes.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir, <hi>&amp;c,</hi> The newes in <hi>Germany</hi> is, that <hi>Bethlem Gaber</hi> Prince of <hi>Transiluania</hi> vnderstanding of the troublesome state of <hi>Bohemia,</hi> and of the adiacent Prouinces his confederates, with a great Army that he had gathered about <hi>Clandiople,</hi> made an inrode into the higher <hi>Hungaria,</hi> taking along with him eighteene pei<g ref="char:EOLhyphen"/>ces of great Ordinance: with this his vnex<g ref="char:EOLhyphen"/>pected comming he presently obtained of the Nobilitie, whom hee had made afraide, and who possessed these places, that they should
+<pb n="6" facs="tcp:193599:3"/>ioyne with him. But he constrained <hi>Human<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie</hi> (who for a while resisted him, yet not being of sufficient strength to hold out,) to depart into <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ia.</hi>
+            </p>
+            <p>Then for the taking in of <hi>Cassouie, Rede,</hi> and <hi>Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> Coronels being sent by <hi>Bethlem Gahor</hi> Prince of <hi>Transiluania</hi> with an Army, required that the Captaine, who was within the Citie <hi>Dots</hi> should be deliuered into their power, this threatning being added, that except hee aliue were permitted vnto them, they would spare neither infants nor sucking babes. Who there<g ref="char:EOLhyphen"/>fore receiuing him into their power, disrobed and mocked him, and so sent him into <hi>Transyl<g ref="char:EOLhyphen"/>vania.</hi> The Citie it selfe when it could not preuaile against this force, and knew of no helpe, vpon deliberation had, yeelded vnto the forces of <hi>Bethlem Gaber</hi> Prince of <hi>Tran<g ref="char:EOLhyphen"/>siluania,</hi> taking an oath to him and to the States of <hi>Hungary,</hi> vpon the fift of September, great terror was throughout all <hi>Hungary</hi> vpon this iourney and inrode, the <hi>Loilars</hi> and other Ecclesiasticall persons, because they sawe Mo<g ref="char:EOLhyphen"/>nasteries, and whole Bishoprickes to be inua<g ref="char:EOLhyphen"/>ded, Monkes and Canons to be gelded, and great outrage euery where to bee exercised, fearing violence to be offred vnto themselues, in great number did withdraw themselues out of this Prouince.</p>
+            <p>The Emperour after the Coronation de<g ref="char:EOLhyphen"/>parting
+<pb n="7" facs="tcp:193599:3"/>from <hi>Franckfor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> vpon the eight of Sep<g ref="char:EOLhyphen"/>tember, came to <hi>Au<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burg</hi> vpon the eighteenth of September, and there taking an oath set for<g ref="char:EOLhyphen"/>ward to <hi>Monach</hi> and to <hi>Grece.</hi>
+            </p>
+            <p>
+               <hi>Bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quoy</hi> in the meane space after he had ta<g ref="char:EOLhyphen"/>ken in <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssec</hi> in <hi>Bohemia,</hi> appointed to march to<g ref="char:EOLhyphen"/>wards <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>habor:</hi> but being preuented by the Bo<g ref="char:EOLhyphen"/>hemians, hee pitched his Campe at <hi>Merouits.</hi> Thether also the Bobemians followed him, opposing their Campe vnto his, and obseruing all his endeauours: whereupon sundry times they fought, and when vpon the fourth of September, a troupe of Spaniards went some<g ref="char:EOLhyphen"/>what too farre from the Campe, they falling vpon the Bohemians, lost about fiue hundred Souldiers.</p>
+            <p>At what time <hi>Bucquoy</hi> had receiued inteligence that <hi>Ferdinando</hi> was elected Emperour, in the night that followed the seuenth day of Sep<g ref="char:EOLhyphen"/>tember, he set his Army in array, thrice shoo<g ref="char:EOLhyphen"/>ting of all his Ordinance and Gunnes, in signe of ioy; but the Bohemians, who were igno<g ref="char:EOLhyphen"/>rant of this thing, all the night standing in bat<g ref="char:EOLhyphen"/>tle aray, expected what might befall. Both sides kept themselues within their campes, vn<g ref="char:EOLhyphen"/>till of a sudden <hi>Bucquoy</hi> receiued a message from the Arch-Duke <hi>Leopold,</hi> whereby hee was admonished of the vnexpected entrie of <hi>Bethlem Gaber</hi> Prince of <hi>Transiluania</hi> into <hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> and was commaunded to lead his Army
+<pb n="8" facs="tcp:193599:4"/>into lower <hi>Austria,</hi> and there to fortifie the ca<g ref="char:EOLhyphen"/>stles and chiefe townes. But before hee went out of <hi>Bohemia,</hi> he assaulted the castle <hi>Rosenberg,</hi> pertaining to <hi>Suanberg,</hi> and taking it, sent away the Souldiers with bagge and baggage. A Gar<g ref="char:EOLhyphen"/>rison being put therein, hee departed with his Army out of the Kingdome, and stopped vp all the passages whereby the Bohemians might followe after him, who were constrained by going about to goe to helpe the Morauians, af<g ref="char:EOLhyphen"/>ter they had heard of the warre there. After his departure the Bohemians sent part of their Army to recouer <hi>Bechin,</hi> which towne <hi>Bucquoy</hi> had taken in vpon the thirteenth of <hi>August,</hi> and by enforcing open a gate through an engine, they tooke it, the Garrison Souldiers for the most part being slaine, and the Captaine and the Ancient being sent to <hi>Prague.</hi>
+            </p>
+            <p>After they recouered <hi>Thine</hi> by compositi<g ref="char:EOLhyphen"/>on, which towne <hi>Bucquoy</hi> had taken in vpon the seuenteenth of <hi>August.</hi> On the other side <hi>Tampir</hi> tooke <hi>Lundeburg</hi> with no small losse of his owne men.</p>
+            <p>Affaires being framed at <hi>Cassoue</hi> according to the desire of <hi>Bethlem Gaber</hi> Prince of <hi>Transilua<g ref="char:EOLhyphen"/>nia,</hi> and most of the cities, for <hi>Myne</hi> being bound to him by oath, <hi>Satch</hi> and <hi>Rede</hi> with eighteene thousand souldiers strong, and with two great pieces entred vpon all places round about, and also vpon <hi>Fillec.</hi> Thence hee wrote
+<pb n="9" facs="tcp:193599:4"/>to the adioyning cities, that they should not resist, but that willingly they should admit the gouernment of the Transiluanians, affirming that this iourney was made with the fore<g ref="char:EOLhyphen"/>knowledge and consent of the Christian States, and threatning all extremities to those that resisted.</p>
+            <p>This Proclamation being receiued, they subdued very many cities and castles; namely <hi>Vaccium, Tirnaue, Nentre, Nouigrade, Possing</hi> and others, the <hi>Heiduckes</hi> of <hi>Iarm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi> apprehending their owne Captaine, and deliuering him vp to their power, with the Fort.</p>
+            <p>Afterwards <hi>Newhouse</hi> was taken in, and the Gouernour of the Garrison souldiers being bound in fetters, and depriued of all his moue<g ref="char:EOLhyphen"/>ables, was sent to <hi>Cassoue:</hi> where a little before, namely vpon the first of September the Tran<g ref="char:EOLhyphen"/>siluanians triumphed with so great dischar<g ref="char:EOLhyphen"/>ging of Ordinance, that the noyse thereof reached vnto <hi>Comorch;</hi> which Fort, as also <hi>Ian<g ref="char:EOLhyphen"/>rin</hi> haue abode constant in their loyaltie to<g ref="char:EOLhyphen"/>wards the Emperour, although the Transilua<g ref="char:EOLhyphen"/>nians had possessed the Ile, and so had opened a passage for themselues to other places.</p>
+            <p>When the <hi>Palatine P.</hi> Elector was certified of his election made by the States of <hi>Bohemia,</hi> hee iudged not rashly to aduenture thereon, not being ignorant with how great molestations, cares, labours and daungers this dignitie was
+<pb n="10" facs="tcp:193599:5"/>ioyned, therefore he beganne to call this busi<g ref="char:EOLhyphen"/>nesse into deliberation, and to consult thereof with Princes and States who were allied vnto him by kindred and acquaintance, and com<g ref="char:EOLhyphen"/>maunded that publicke prayer should be made upon certaine dayes through his whole coun<g ref="char:EOLhyphen"/>trey.</p>
+            <p>At length hee being mooued with certaine reasons, thought it fit to obey the will of God and his vocation. Therefore the affaires in the Palatineship being set in order, and the politi<g ref="char:EOLhyphen"/>call gouernment being committed to <hi>Iohn Bi<g ref="char:EOLhyphen"/>pont,</hi> and matters of warre being referred to <hi>Iohn Nassawe</hi> the elder, with the Princesse, with his children, and with his whole house hee went to <hi>Amberg.</hi>
+            </p>
+            <p>They of <hi>Brussles</hi> were saide about this time to be entred into sedition, because of exacti<g ref="char:EOLhyphen"/>ons, and of publicke impositions: but the multitudes of Spanish souldiers gathering head quieted them.</p>
+            <p>
+               <hi>Bucquoy</hi> vpon his forsaking of <hi>Bohemia,</hi> tooke in <hi>Horne</hi> a towne of lower <hi>Austria,</hi> and placed a Garrison therein: but after obseruing that it could not bee retained, the Garrison being called away, vpon the fift of <hi>October</hi> hee came to <hi>Ret<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and after to <hi>Sname</hi> a towne in <hi>Morauia,</hi> with nine thousand horse and foote, and presently with great importunitie deman<g ref="char:EOLhyphen"/>ded that their towne should bee deliuered vp.
+<pb n="11" facs="tcp:193599:5"/>But when the Garrison, these threatnings be<g ref="char:EOLhyphen"/>ing neglected, prepared for defence, and knewe that twelue thousand Hungarians and Transiluanians were ready at hand, hee raised the Campe and departed, to ioyne himselfe with <hi>Tampier.</hi>
+            </p>
+            <p>In the meane space the Transiluanians drew neare, and ioyned themselues with the Bohe<g ref="char:EOLhyphen"/>mian and Morauian Campe. This beeing knowne, some ensignes of the Hungarians who were vnder <hi>Tampier,</hi> leauing his Campe reuoulted to the Transiluanians. When there<g ref="char:EOLhyphen"/>fore <hi>Turren</hi> sawe that his Army was augmen<g ref="char:EOLhyphen"/>ted with the Hungarians and Transiluanians to be about twentie sixe thousand, vpon deli<g ref="char:EOLhyphen"/>beration with <hi>Rede</hi> hee determined to meete and to fight with <hi>Bucquoy</hi> and <hi>Tampier.</hi> But for to try their strength <hi>Tampier</hi> sent foorth three Companies, which for the most part were slaine by the Hungarians. Whereupon <hi>Buc<g ref="char:EOLhyphen"/>quoy</hi> seeing himselfe too weake, the former station being left, pitched his campe at the ou<g ref="char:EOLhyphen"/>ter bridge of <hi>Danow,</hi> whither <hi>Leopold</hi> the Arch-Duke came from <hi>Vienna</hi> to view the Ar<g ref="char:EOLhyphen"/>my. But the enemy with great fury pursuing the rereward put to flight, fiue hundred of the <hi>Tampiers</hi> company.</p>
+            <p>But presently the Bohemians comming forward, and the Mountaine and the next Wood being possessed, they drew nearer and
+<pb n="12" facs="tcp:193599:6"/>nearer towards them. <hi>Leopold</hi> preswaded <hi>Bue<g ref="char:EOLhyphen"/>quoy</hi> to fight, and to try the very extremity: but he refusing the counsell that was ioyned with very great perill, kept himselfe in the campe: but yet the Archduke being returned into the cittie, the Battle beganne about eue<g ref="char:EOLhyphen"/>ning, and was continued vntill about mid<g ref="char:EOLhyphen"/>night, the Artilerie on both sides being dis<g ref="char:EOLhyphen"/>charged, with no small losse vpon both sides.</p>
+            <p>The next day, when for a thicke mist they could not looke about, and when they thought that the Bohemians were retired, to passe ouer <hi>Danow</hi> at <hi>Fischet,</hi> and with their campe to pos<g ref="char:EOLhyphen"/>sesse the other side of the Riuer, <hi>Bucquoy</hi> sent his Souldiers to stop that passage. But after the mist breaking vp, when they who were in the Vauntgard had already gotten ouer the Bridge with many Gunnes, and the Rereward was yet in the campe at the Bridge, the Bohe<g ref="char:EOLhyphen"/>mians in great number comming vpon them, endeauoured to take the bridge from them. Whereupon a great fight was made, and a great company on both sides were slaine with the often shooting of Gunnes. The greatest losse fell out in the campe of <hi>Bucquoy,</hi> three barrels of Gunpowder being fired by negli<g ref="char:EOLhyphen"/>gence of souldiers, which not onely killed many but caused those that were scorched in quenching the fire, to bee drowned in <hi>Da<g ref="char:EOLhyphen"/>now.</hi>
+            </p>
+            <pb n="13" facs="tcp:193599:6"/>
+            <p>
+               <hi>Bucquoy, Dampier,</hi> and other captaines dili<g ref="char:EOLhyphen"/>gently encouraged their souldiers to fight, and sustained the Enemy vntill night, which com<g ref="char:EOLhyphen"/>ming on, when they saw that the fort raised before the Bridge was assaulted, with great courage they tooke thence the Garrison, o<g ref="char:EOLhyphen"/>uerthrew the bridge, and so betooke them<g ref="char:EOLhyphen"/>selues to rest. Whilest the skirmish lasted, the Hungarians that yet remained in the campe of <hi>Dampier,</hi> the carriages which they were set to keepe, being ranfacked and fired betook them<g ref="char:EOLhyphen"/>selues to flight. The number that were slaine was vncertaine, for the wounded the next day in many waines were carried to <hi>Vienna,</hi> who afterwards dyed in great number. <hi>Buc<g ref="char:EOLhyphen"/>quoy</hi> himselfe was wounded in the arme with a bullet, and his chiefe Colonel was wounded thrice, but dyed not.</p>
+            <p>
+               <hi>Bethlem Gaber</hi> Prince of <hi>Transiluania,</hi> in the meane space with a great army that he condu<g ref="char:EOLhyphen"/>cted went towards <hi>Poson,</hi> and tooke the Castle of <hi>Petronel</hi> by force, which he rased. This ru<g ref="char:EOLhyphen"/>mour comming to <hi>Vienna,</hi> three companies of Souldiers with three brazen pieces being shipped were sent into <hi>Poson,</hi> and entred into the suburbs vpon the thirteenth of October. This night was very tempestuous, therefore the <hi>Trans<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iuanians,</hi> preassed vpon them fearing no such thing, and put to flight a great part of these souldiers, their captaine <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esenbach</hi> with
+<pb n="14" facs="tcp:193599:7"/>a fewe escaping by flight. The Suburb being taken, <hi>Bethlem Gaber</hi> Prince of <hi>Transiluania</hi> com<g ref="char:EOLhyphen"/>maunded the Prince <hi>Palatine</hi> to answere him, whether hee would defend the citie and the castle, or that he should yeelde without force, certaine dayes being permitted for deliberati<g ref="char:EOLhyphen"/>on, who taking aduice with <hi>Palse</hi> and with o<g ref="char:EOLhyphen"/>thers of the Nobilitie, when hee could doe none other, determined to yeelde. There<g ref="char:EOLhyphen"/>fore the citie being taken in, the Prince of <hi>Transiluania</hi> commanded that a Sermon should bee made in the Cathedrall Church vpon the twenty of <hi>October,</hi> and thence passing into the castle viewed the Crowne of <hi>Hungary,</hi> and the other ornaments of the Kingdome, and retur<g ref="char:EOLhyphen"/>ning into the citie entertained the Prince <hi>Pala<g ref="char:EOLhyphen"/>tine</hi> and other Nobles to dinner.</p>
+            <p>In the meane space the <hi>Palatine</hi> P. Elector the elected K. of <hi>Bohemia</hi> departing from <hi>Am<g ref="char:EOLhyphen"/>berg</hi> came to <hi>Waltsachs,</hi> where the Embassadors of the Prouinces vnited into <hi>Bohemia,</hi> met him, with eighteene coaches: thence they went to <hi>Egra,</hi> thence to <hi>Falquenaue</hi> and to <hi>Sant,</hi> and so to other places with the gratulation and ioy of all citizens, vntill at length he came to <hi>Prague,</hi> into which he entred with very great pompe, and a little after was present in their Parleament.</p>
+            <p>
+               <hi>Ernest</hi> Count <hi>Mansfield</hi> that he might reco<g ref="char:EOLhyphen"/>uer places taken in by <hi>Bucquoy,</hi> vpon the three
+<pb n="15" facs="tcp:193599:7"/>and twentith of <hi>October</hi> went with his Souldi<g ref="char:EOLhyphen"/>ers to <hi>Winterburg,</hi> and presently a Fort and the chappell being taken that was builded vnder the castle, he exhorted the Captaine to yeelde, and when hee saide hee would rather loose his life then gratifie his enemy: the Count batte<g ref="char:EOLhyphen"/>ring the gate entred, and slewe all the Garrison, except a fewe Prisoners.</p>
+            <p>This being done, other townes and places yeelded of their owne accord, their garrisons passing to <hi>Budwitz.</hi> Thence the Count going to <hi>Pragadit,</hi> and finding the garrison to resist, with great violence tooke the towne and slewe them all vpon the twenty foure of <hi>October.</hi>
+            </p>
+            <p>
+               <hi>Herman Frence,</hi> a garrison being left in <hi>Tha<g ref="char:EOLhyphen"/>bor,</hi> went with his Army towards <hi>Wodian,</hi> and knowing that the captaine of this towne was not furnished with a sufficient guard, and that two Noble men of <hi>Bohemia,</hi> who had hitherto serued vnder the Emperour, were gone into this towne, all passages being besieged, tooke order to beate all the souldiers from the tow<g ref="char:EOLhyphen"/>ers and walles, and to burst open a gate; but throgh valiant resistance of the garrison could doe no good, vntill the next day a Trumpetour being sent, the Captaine couenanted to depart: which <hi>Frence</hi> willingly permitted; yet so that they should deliuer the two Noble-men, who, the towne being taken in, were carried and put into the tower at <hi>Prage:</hi> where in the meane
+<pb n="16" facs="tcp:193599:8"/>season <hi>Fredericke P.</hi> Elector <hi>Palatine</hi> was crow<g ref="char:EOLhyphen"/>ned King of <hi>Bohemia,</hi> in <hi>Nouember:</hi> and in the same moneth <hi>Elizabeth</hi> his wife, Princesse of Great <hi>Britain</hi> was crowned Queene.</p>
+            <p>At this time in <hi>France Conac</hi> was set at liber<g ref="char:EOLhyphen"/>tie, and some perswaded, that neither side of the Germans was to be holpen, because <hi>France</hi> had receiued no small profit from the Princes thereof.</p>
+            <p>Great calamity did now also oppresse lower <hi>Austria,</hi> the souldiers on euery side meeting there, and wonderfully exasperating this mis<g ref="char:EOLhyphen"/>chiefe, but the inhabitants in great-number with their wiues and children fled to other places.</p>
+            <p>At <hi>Vienna</hi> the souldiers of <hi>Bucquoy,</hi> and of <hi>Dampier,</hi> wasted the villages and other townes, that no profit might thence redound to the e<g ref="char:EOLhyphen"/>nemy, insomuch that victuals encreased still their price at <hi>Vienna;</hi> furthermore from high<g ref="char:EOLhyphen"/>er <hi>Austria</hi> an Army was sent vnder the Gene<g ref="char:EOLhyphen"/>rall <hi>Sterenberg,</hi> who preserued passage to both the bankes of <hi>Danow,</hi> by wasting and taking in the villages and townes that appertained to the Catholickes: but they commaunding the Monastery of <hi>Molque</hi> to yeelde, and not be<g ref="char:EOLhyphen"/>ing obeyed fired the towne, and assaulted the castle, vntill they were hindered by fowle weather.</p>
+            <p>
+               <hi>Bucquoy</hi> and <hi>Dampier</hi> vnderstanding that the
+<pb n="17" facs="tcp:193599:8"/>
+               <hi>Hungarians</hi> at <hi>Poson,</hi> passing ouer <hi>Danow</hi> had put to flight <hi>Hainburg</hi> the Coronell in open warre, thought fit to succour him with some certaine thousands, and with sixe hundred barded horse.</p>
+            <p>Therefore they ioyning battle, many were slaine on both sides, and <hi>Bucquoy</hi> was stricken on his Armour with a short sword, and very many were wounded, who were afterwards carried to <hi>Vienna:</hi> but a thousand and six hun<g ref="char:EOLhyphen"/>dred of the troopes of <hi>Bucquoy</hi> passed away to the Hungarians their countrey-men.</p>
+            <p>Vpon the moneth of <hi>Nouember</hi> the Prote<g ref="char:EOLhyphen"/>stants assembled a Parlement at <hi>Norimberg,</hi> where the King of <hi>Bohemia,</hi> and many other great Princes met, and gaue answere to the Embassadours of the Emperour: who, vpon the twenty foure of <hi>Nouember</hi> came from <hi>Greatz</hi> to <hi>Vienna,</hi> where hee was entertained by <hi>Leopold</hi> the Arch-Duke.</p>
+            <p>
+               <hi>Capisan</hi> a certaine Captaine of the Bohemi<g ref="char:EOLhyphen"/>an forces comming with foure thousand to <hi>Creames,</hi> opened one gate with Artillery, and the other with fire: but yet could not take the citie because of the Port-cullis: not onely the souldiers, but also the women powred scalding liquor, and pitch-barrels vpon their heads, so that they were constrained to retire with the losse of some two hundred.</p>
+            <p>After this there came from <hi>Millain</hi> ouer
+<pb n="18" facs="tcp:193599:9"/>the Alpes through <hi>Heluetia</hi> into the Bishop<g ref="char:EOLhyphen"/>ricke of <hi>Passawe,</hi> about eight thousand souldiers strong, and markes of greatest crueltie being left there, when they could not passe into high<g ref="char:EOLhyphen"/>er <hi>Austria,</hi> because that all the passages were stopped by the countrey people, some of them passed towards <hi>Budwitz</hi> in <hi>Bohemia,</hi> vnder Co<g ref="char:EOLhyphen"/>ronell <hi>Balthasar.</hi>
+            </p>
+            <p>The Emperour being come into <hi>Vienna,</hi> the Hungarians and Bohemians in great number marched towards <hi>Nischet,</hi> and thence towards <hi>Vienna</hi> by <hi>Ebersdorfe,</hi> which they tooke in, sen<g ref="char:EOLhyphen"/>ding the garrison to <hi>Vienna,</hi> and so spoiled all the villages and townes, not without great slaughter.</p>
+            <p>Thereupon the countrey people in great companies came into <hi>Vienna,</hi> and made victu<g ref="char:EOLhyphen"/>als exceeding deare. <hi>Turren</hi> and <hi>Bethlem Gaber,</hi> Prince of <hi>Transyluania,</hi> who had besieged the citie, affirming for certain, that if the consorts of their Religion had not beene therein, they would haue constrained them to haue yeelded through famine.</p>
+            <p>In the meane space <hi>Humanoie</hi> with eight thousand Polonians to trie his destinie, made an inrode into <hi>Hungary:</hi> but by <hi>Ragots,</hi> whom the Prince of <hi>Transiluania</hi> had left at <hi>Cassoue,</hi> he being subdued lost a company of his souldi<g ref="char:EOLhyphen"/>ers.</p>
+            <p>Thereupon ioyning forces with <hi>Radulen,</hi> and
+<pb n="19" facs="tcp:193599:9"/>Count <hi>Althem,</hi> hauing ten thousand souldiers, hee againe marched against him. A great bat<g ref="char:EOLhyphen"/>tle being fought and continued all night long, some three thousand were slaine vpon both sides.</p>
+            <p>Then the Polonians departing and counter<g ref="char:EOLhyphen"/>feiting flight, presently the Hungarian foote fell vpon the spoile: but they were for the most part slaine by the Polonians, who retur<g ref="char:EOLhyphen"/>ned againe, and the Hungarian horse fled. <hi>Ra<g ref="char:EOLhyphen"/>gots</hi> escaping by flight, sought to repaire his Army.</p>
+            <p>Neuerthelesse the Prince of <hi>Transiluania</hi> vn<g ref="char:EOLhyphen"/>derstanding of this slaughter, ceased to besiege <hi>Vienna</hi> (<hi>Rede</hi> being sent with part of the Army into vpper <hi>Hungarie,</hi>) and returned to <hi>Poson, E<g ref="char:EOLhyphen"/>denburg</hi> being by composition taken in, and for<g ref="char:EOLhyphen"/>tified with a Garrison of foure hundred soul<g ref="char:EOLhyphen"/>diers.</p>
+            <p>Also Count <hi>Mansfield</hi> tooke in <hi>Pessec,</hi> the garrison being sent away with their Armes; but the Captaine, who was a Spaniard, and va<g ref="char:EOLhyphen"/>liantly had sustained the siege by the space of a moneth: was carried to <hi>Pilsne,</hi> and the towne that was made desolate by the imperi<g ref="char:EOLhyphen"/>als, was repaired and fortified with a stronger garrison.</p>
+            <p>In the moneth of <hi>December</hi> a great gaping appeared in the skie, in the fashion of Armies comming from the South and North, and
+<pb n="20" facs="tcp:193599:10"/>fighting each with other, vntill the Southerne army was ouercome and put to flight.</p>
+            <p>Vpon the sixteenth of <hi>December Iohn-Charles</hi> the elder sonne of the Emperor dyed at <hi>Greatz.</hi>
+            </p>
+            <p>In the meane space at <hi>Prague,</hi> by the com<g ref="char:EOLhyphen"/>mandement of the King of <hi>Bohemia,</hi> being re<g ref="char:EOLhyphen"/>turned from the Parliament of <hi>Noremberg</hi> Ima<g ref="char:EOLhyphen"/>ges and Statues, with all Altars were remoued from the Cathedrall Church of the Tower, the Kings Chaplaine making a Sermon, and laying downe the cause of that businesse a<g ref="char:EOLhyphen"/>mongst others, because the King could no longer for his conscience beare Idolatrie in his sight.</p>
+            <p>Also the King vpon inquisition made, in<g ref="char:EOLhyphen"/>to the corners of Rogues and of Whoores, commanded the Citie to be purged from all filthynesse and dishonesty, and that an Hospi<g ref="char:EOLhyphen"/>tall should bee builded for the poore and aged.</p>
+            <p>Vpon the twenty seuenth of December a Sonne was borne to the King of <hi>Bohemia,</hi> for which cause, congratulation was made by the Officers, and prayers were made to God.</p>
+            <p>On the other side, no small helpe was de<g ref="char:EOLhyphen"/>creed to the Emperour by the King of <hi>Spaine,</hi> and the <hi>Pope</hi> commanded no small contributi<g ref="char:EOLhyphen"/>on to Spirituall and Ecclesiasticall persons through <hi>Italie, Spaine, Brabant, Flanders</hi> and o<g ref="char:EOLhyphen"/>ther prouinces.</p>
+            <pb n="21" facs="tcp:193599:10"/>
+            <p>The prince Elector of <hi>Saxonie</hi> is said to be Neuter, and onely prepareth to defend him<g ref="char:EOLhyphen"/>selfe.</p>
+            <p>
+               <hi>Bucquoy</hi> making an inrode towards vpper <hi>Austria,</hi> tooke <hi>Ipsen,</hi> a towne that was destitute of Garrison. But before his comming, <hi>Steren<g ref="char:EOLhyphen"/>berg,</hi> the chiefe Generall of this prouince (the fiedge of the Monastery <hi>Molque</hi> being raised) returned to the limits with his Army, to wait for the cōming of <hi>Bucquoy.</hi> In the meane season, the countrie people led with the zeale of Re<g ref="char:EOLhyphen"/>ligion, killed and put to flight the Italians that remained of the army of <hi>Balthasar,</hi> who made inroades from the vpper patt. But <hi>Car<g ref="char:EOLhyphen"/>pezan</hi> a Colonell of the Bohemians tooke and rased <hi>Gotvien,</hi> the most strong Monastery of Lower <hi>Austria.</hi>
+            </p>
+            <p>Hitherto a great number of Horse and Foote was gathered for the Emperour, and for the prince of <hi>Bauaria,</hi> in the Territories of <hi>Colen,</hi> and in the adioyning countries. For the hindring of these expeditions, the States of the vnited prouinces of the Low Countries; writing once or twice to the Electors of <hi>Colen</hi> and <hi>Triers,</hi> exhorted them largely to maintaine the league, and not to permit any thing to be done against their confederates; but most e<g ref="char:EOLhyphen"/>specially, not against the prince <hi>Palatine</hi> Ele<g ref="char:EOLhyphen"/>ctor, except they would haue the same to be also done in their prouinces.</p>
+            <pb n="22" facs="tcp:193599:11"/>
+            <p>Part of this Army set forward vnder the gouernment of <hi>Count Liopien,</hi> and of the Co<g ref="char:EOLhyphen"/>lonel <hi>Lantsb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rger,</hi> who when they could not obtaine passage through <hi>Hassta,</hi> and through the countie of <hi>Nassawe,</hi> they iourning through <hi>Vererave</hi> passed into <hi>Franconia,</hi> and there with great discommodity of the <hi>Herbipolensians,</hi> be<g ref="char:EOLhyphen"/>cause the Army of the vnited Princes &amp; States opposed; they were constrained to abide there some certaine weeks. They were about foure thousand, whom, so many others follow<g ref="char:EOLhyphen"/>ed a little after. But the <hi>Isenburgensians,</hi> and the <hi>Hanouians</hi> opposing, and not willing in any sort to permit passage, they were constrained to re<g ref="char:EOLhyphen"/>turne the way that they came, and in very cold weather to passe ouer the <hi>Rhine.</hi> But the prince of <hi>Bauaria</hi> being certisied of the deniall of pas<g ref="char:EOLhyphen"/>sage, presently sent Embassadours, who agreed vpon certaine articles for passage. Which a<g ref="char:EOLhyphen"/>greement being made, the Army passed to the Bishoprike of <hi>Achstelin,</hi> and there abode cer<g ref="char:EOLhyphen"/>taine daies, with great losse of the inhabi<g ref="char:EOLhyphen"/>tants.</p>
+            <p>In the meane space a league was concluded betwixt the Emperor and <hi>Bethlem Gaber</hi> prince of <hi>Transiluanta,</hi> vntill the feast of Saint <hi>Michael,</hi> 1620.</p>
+            <p>About this time <hi>Tifenbach</hi> the Colonel of the <hi>Mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uian</hi> forces comming with his army to <hi>Nicolaisburg,</hi> obtained the Towne without any
+<pb n="23" facs="tcp:193599:11"/>great labour, but sixe hundred <hi>Dampirians</hi> de<g ref="char:EOLhyphen"/>fended most valiently the Castle, notwith<g ref="char:EOLhyphen"/>standing at length when they had repelled the assailants at certaine times, and had slaine about two hundred, and saw that <hi>Ti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enbach</hi> endeauou<g ref="char:EOLhyphen"/>red to enter, by mounting against them thir<g ref="char:EOLhyphen"/>teene great Gunnes: they being destitute of powder and of other things, requested palee, and couenanted with bag and baggage to de<g ref="char:EOLhyphen"/>part, except they were relieued within three daies, Count <hi>Nagrol</hi> with three others, being in the meane space left in the Campe for pled<g ref="char:EOLhyphen"/>ges. When therefore, for the bridge cast downe in <hi>Dan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w,</hi> they could not receiue aide from <hi>Dampier;</hi> the time being expired, they yeelded vp the Castle, wherein besides much Wine and corne, there were found eight and thirty great pieces of Ordinance, and moueables belonging to Cardinall <hi>Ditrich<g ref="char:EOLhyphen"/>stein,</hi> and a great booty that had been taken by <hi>Dampier.</hi>
+            </p>
+            <p>In the former yeare, a grieuous contention did arise betwixt two Noblemen of <hi>Bohemia;</hi> namely, betwixt <hi>Henrie Slavat</hi> and <hi>Wartenberg,</hi> about the deceased Baron of <hi>Smirsiscen.</hi> For he dying without an Heire, being vnmarried, left two Sisters, and the one that married to <hi>Slavat</hi> entred as sole Heiresse, but <hi>Wartenb<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g</hi> entring the castle, freed the other sister long detained in prison, and maried her, and entring
+<pb n="24" facs="tcp:193599:12"/>vpon the possession of the castle and towne, bound the sabiects to him with an oath. This vexed <hi>Slauat,</hi> and therefore he framed his acti<g ref="char:EOLhyphen"/>on against him: who being called to <hi>Prague</hi> appeared there, and put in securitie. But the K. of <hi>Bohemia</hi> send Commissaries, who should comprimise the case concerning the town and the castle.</p>
+            <p>But it came to passe whiles these Commis<g ref="char:EOLhyphen"/>saries were deciding the controuersie for <hi>Sla<g ref="char:EOLhyphen"/>uat,</hi> and had commaunded the wife of <hi>Warten<g ref="char:EOLhyphen"/>berg</hi> to depart from the towne and castle, and to restore them to <hi>Slauat,</hi> shee being enflamed with furie animated the souldiers, which shee had there to defend the castle. Therefore one of them entred into the chamber, wherein many barrels of Gun-powder were layed vp, and carelesly moouing a match neare to the powder, set the same on fire, and blew vp the whole castle with all that were therein. Who were all the Commissaries with their seruants and other attendants, about threescore, and also the contending parties; Namely <hi>Slauata,</hi> and the wife of <hi>Wartenberg,</hi> with the women, seruants and souldiers which they had with them, besides other hurt that it did in the towne.</p>
+            <p>The King of <hi>Bo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emia</hi> in <hi>February</hi> came to <hi>Brinna,</hi> and was receiued by the States with great pompe: where he tooke the oath of loy<g ref="char:EOLhyphen"/>altie
+<pb n="25" facs="tcp:193599:12"/>from the States, and confirmed all priui<g ref="char:EOLhyphen"/>ledges vnto them, and so set forward into <hi>Sile<g ref="char:EOLhyphen"/>sia.</hi> Hee being scarce departed, the <hi>Cosacces</hi> a<g ref="char:EOLhyphen"/>bout foure thousand comming from <hi>Poland</hi> made inrodes into <hi>Morauia:</hi> but not long tar<g ref="char:EOLhyphen"/>rying there, their iourney beeing continued night and day, and guides being sent before who had knowledge of the places, the bridges being alwayes ouerthrowne which they had passed, lest any should follow at their backes. In their iourney they ransacked many townes and villages, and amongst them <hi>Mescrit,</hi> where<g ref="char:EOLhyphen"/>in at that very time a marriage of a certaine Noble-man was celebrated, and they tooke a great bootie and braue apparell, which after<g ref="char:EOLhyphen"/>wards they sold for a litle at <hi>Vienna.</hi> The horse<g ref="char:EOLhyphen"/>men of <hi>Morauia</hi> followed them somewhat too late: but yet about midnight ouerthrew them neare to the banke of <hi>Danow,</hi> vpon the tenth of <hi>February,</hi> and distressed about a thousand of them, the residue with admiration of all men swimming through <hi>Danow,</hi> and all ouer wet entring into <hi>Vienna,</hi> where lodging was assi<g ref="char:EOLhyphen"/>gned to them in the Suburbs.</p>
+            <p>These souldiers afterwards making inrodes into lower <hi>Austria,</hi> made all places dangerous, spoiled some fiftie villages of the Protestants, and caused that the countrey people in great number with their wines and children <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ying
+<pb n="26" facs="tcp:193599:13"/>into the woods, miserably perished through famine and cold. Eight thousand w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide to followe after them, therefore the <hi>Si<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esians</hi> and <hi>Morauians</hi> mustered souldiers to hinder them of passage, and sending messengers to the Prince of <hi>Transiluania</hi> who req<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sted ayde, and threatned a contrary inrode of Turkes and Tartars into <hi>Poland,</hi> if it againe should endea<g ref="char:EOLhyphen"/>uour any thing against his dominion, or the dominion of his confederates, (although the King of <hi>Poland</hi> answered that he knewe not of their comming) and furthermore sent an em<g ref="char:EOLhyphen"/>bassage vnto <hi>Vienna,</hi> that except these <hi>Cosacces</hi> beeing called into the Prouince against the league were againe dimissed, hee would pre<g ref="char:EOLhyphen"/>sently come with sixteene thousand Hungari<g ref="char:EOLhyphen"/>ans and helpe the oppressed.</p>
+            <p>At the same time <hi>Bucquoy</hi> going about to re<g ref="char:EOLhyphen"/>uenge the losse that hee had receiued not long before by the Bohemians at <hi>Chitse,</hi> with eight thousand horse and foote marched towards <hi>Langelose.</hi>
+            </p>
+            <p>There were there nine companies in garri<g ref="char:EOLhyphen"/>son vnder Count <hi>Mansfield;</hi> but the Count him<g ref="char:EOLhyphen"/>selfe was gone to <hi>Prague.</hi> When they came thether, certaine troupes being sent before, and the residue detained in ambush, hee drewe the <hi>Mansfieldians</hi> out of the towne into the am<g ref="char:EOLhyphen"/>bush. Therefore a great fight being made, and
+<pb n="27" facs="tcp:193599:13"/>the troupes of horse being put to fight, about nine hundred foote were ronted, but the resi<g ref="char:EOLhyphen"/>due escaped with the losse of fiue ensignes, and also foure hundred were slaine vpon the other side.</p>
+            <p>A few dayes after an assault being made vp<g ref="char:EOLhyphen"/>on the troupe of <hi>Hollach,</hi> they ronted three<g ref="char:EOLhyphen"/>score. Likewise also the imperiall souldiers who were in garrison at <hi>Laea,</hi> sallying foorth slewe about two hundred of the <hi>Sallernian</hi> soul<g ref="char:EOLhyphen"/>diers: and the <hi>Cosacces</hi> oppressed and ronted a troupe of <hi>Hollaghian</hi> horse in a certaine village. <hi>Dampier</hi> vnderstanding of this successe, ioyned campe with <hi>Bucquoy,</hi> and determined to march the next way towards <hi>Prague,</hi> &amp; <hi>Bucquoy</hi> cōman<g ref="char:EOLhyphen"/>ded, that each one should prouide himselfe of powder and victuals for the space of six dayes. But <hi>Christian</hi> Prince <hi>Anhalt</hi> with the Bohe<g ref="char:EOLhyphen"/>mian and Morauian troupes being gathered together without delay to <hi>Egenburg,</hi> the offi<g ref="char:EOLhyphen"/>cers and souldiers that wandred vp and downe in <hi>Prague,</hi> being commaunded within the space of twenty foure hours to appeare in the campe, vnder a great penaltie.</p>
+            <p>In the meane space the Spaniards, whom we saide aboue, vnder the gouernment of <hi>Baltha<g ref="char:EOLhyphen"/>sar</hi> to haue come to <hi>Cruma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> and to <hi>Budwitz,</hi> making an inrode towards <hi>W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ian</hi> and <hi>Praga<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t</hi> did mightily molest the inhabitants with spoi<g ref="char:EOLhyphen"/>ling
+<pb n="28" facs="tcp:193599:14"/>and fyring, and after the departure of <hi>Buc<g ref="char:EOLhyphen"/>quoy,</hi> againe wasted the towne that before had beene repaired.</p>
+            <p>Vpon the two and twentith of <hi>February</hi> the souldiers in great abundance set forward from <hi>Budwitz,</hi> and comming to <hi>Thine,</hi> which is three miles distant from <hi>Thabor,</hi> and seated vpon <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ldawe,</hi> caused it to yeelde, and gaue leaue to the garrison to depart. But seeing that the towne could not be held, they ransacked and left it, and thence passed to <hi>Belieschin</hi> and to <hi>Wittigaue,</hi> returning at length with a great boo<g ref="char:EOLhyphen"/>tie vnto their fellowes: which things caused a<g ref="char:EOLhyphen"/>gaine that a mustering was made, and that eue<g ref="char:EOLhyphen"/>ry twentieth person was commaunded to bee ready at all times.</p>
+            <p>After that the King of <hi>Bohemia</hi> was depar<g ref="char:EOLhyphen"/>ted from <hi>Morauia</hi> he came with great triumph to <hi>Vrat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>slaue,</hi> where foure Canons, an Abbot, and a Prior of the Monasteries appearing in the Court tooke the oath of allegiance, which likewise about noone was done by the citi<g ref="char:EOLhyphen"/>zens.</p>
+            <p>All things being prosperously done, when in the meane space Embassadours were come from the King of <hi>Denmarke</hi> to the King of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>hemia,</hi> some were appointed by the Princes of <hi>Silesia</hi> for an embassage to bee sent to <hi>Constan<g ref="char:EOLhyphen"/>tinople,</hi> and into <hi>Poland,</hi> in the name of the King
+<pb n="29" facs="tcp:193599:14"/>of <hi>Bohemia,</hi> and of the incorporated Prouinces: but the King hauing viewed the city all about, and the Cathedrall Church being saluted, al<g ref="char:EOLhyphen"/>so all priuiledges being confirmed; setled him<g ref="char:EOLhyphen"/>selfe to take a iourney into <hi>Lusatta:</hi> but newes being receiued of the endeauours of <hi>Buequoy,</hi> he iudged it better to deferre that iourney vn<g ref="char:EOLhyphen"/>till another time, and returned to <hi>Prague.</hi>
+            </p>
+            <p>The Catholickes againe celebrated a <hi>lubily,</hi> the Pope so ordering and commaunding, that prayers should be powred forth for the safety of the Emperour, and for the preseruation of Catholicke Religion in the Empire. When this feast, or rather fast to the Catholickes was warned in the Church of <hi>Stephan</hi> at <hi>Vienna</hi> a<g ref="char:EOLhyphen"/>bout eight of the clocke in the morning vpon the three and twentith of <hi>February,</hi> thundrings and lightnings were seene altogether in an vn<g ref="char:EOLhyphen"/>vsuall fashion, not without the great amaze<g ref="char:EOLhyphen"/>ment of all.</p>
+            <div type="part">
+               <head>A strange rel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion.</head>
+               <p>In the meane season, Prince <hi>Anhalt</hi> labou<g ref="char:EOLhyphen"/>boured by all meanes to hinder <hi>Bucquoy</hi> (who vpon the twenty fourth of <hi>February</hi> had lost two hundred Souldiers in assaulting <hi>Gre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sen<g ref="char:EOLhyphen"/>stein</hi> to no purpose) from comming to <hi>Prague.</hi> Therefore gathering his Army to <hi>Egenb<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g,</hi>
+                  <pb n="30" facs="tcp:193599:15"/>he besieged all the passages of that place: fur<g ref="char:EOLhyphen"/>thermore he fought with the Imperials, and nor a few on both sides were slaine, vntill at leng<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h they ioyned in maine Battell, wherein <hi>Bucquoy</hi> his forces were ronted and put to ex<g ref="char:EOLhyphen"/>ecution, although they were farre more in number.</p>
+               <p>It is reported that one of the <hi>Casacces</hi> run<g ref="char:EOLhyphen"/>ning, lifted <hi>Dampier</hi> vpon an horse, and so preserued his life; who afterwards retuning to <hi>Vienna,</hi> complained much of the improui<g ref="char:EOLhyphen"/>dent care of <hi>Buequoy,</hi> because hee refused to fight, vntill the Armies were come into straite passages and narrow places.</p>
+               <p>
+                  <hi>Bucquoy</hi> being fled, a great rich booty was intercepted, the Imperials reuolted; <hi>Bohemia, Morauia, Silesia, Lusatia,</hi> and <hi>Austria,</hi> yea, and <hi>Hungary,</hi> were confirmed to the King of <hi>Bo<g ref="char:EOLhyphen"/>hemia,</hi> and in a word, all signes of future pro<g ref="char:EOLhyphen"/>sperity profered themselues to him, but the contrary to his enemies.</p>
+               <p>Yea a little after at <hi>Prague</hi> a Parliament was kept, wherein they propounded the example of the vnited Prouinces in the Low Coun<g ref="char:EOLhyphen"/>tries to be imitated by them, if so be that all Poperie should endeauour to make their do<g ref="char:EOLhyphen"/>minions the appointed field for warre: and if they cannot like <hi>Africanus,</hi> make the warres to ascend ouer into the countries of their e<g ref="char:EOLhyphen"/>nemies.
+<pb n="31" facs="tcp:193599:15"/>A more safe, easie, frugall, and ho<g ref="char:EOLhyphen"/>nourable warre. But other arguments, and some more strong are not too popularly to be expressed.</p>
+               <p>
+                  <hi>Prince Anhalt</hi> is saide to bee gone to giue his attendance vpon <hi>Bucquoy,</hi> who is repor<g ref="char:EOLhyphen"/>ted to bee fallen into melancholy (peraduen<g ref="char:EOLhyphen"/>ture adust) at <hi>Creams.</hi>
+               </p>
+               <p>But rather the <hi>Loilorian Phormioes</hi> seeme to bee blamed then <hi>Bucquoy,</hi> because they make none ende with their talkatiue experience to violate the very Principles of Warre, and of Peace, and yet they must master the often tried practise of Commaunders in both, al<g ref="char:EOLhyphen"/>though perpetuall ruine manifesteth their fol<g ref="char:EOLhyphen"/>ly to the world.</p>
+               <p>About this time was an assembly of E<g ref="char:EOLhyphen"/>lectors at <hi>Mulhouse;</hi> wherein <hi>Mentz, Colon,</hi> and <hi>Saxonie</hi> were present: and <hi>Tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers</hi> sent his Embassadour. They deliberated to turne away the misery that is likely to fall vpon the Em<g ref="char:EOLhyphen"/>perour, &amp;c.</p>
+               <p>But the Prince of <hi>Vinarie</hi> gathered souldi<g ref="char:EOLhyphen"/>ers for the Bohemians in the vnited prouin<g ref="char:EOLhyphen"/>ces of the Lowe Countries: and the States there deliberated of sending a Nauy into <hi>A<g ref="char:EOLhyphen"/>merica,</hi> the Merchants bestowing a vast summe of money vpon this vse, which with hast they intend to employ, least any one should
+<pb n="32" facs="tcp:193599:16"/>ransacke the Campe before them.</p>
+               <p>When after this dismall day to <hi>Bucquoy,</hi> he was returned to <hi>Creames,</hi> the <hi>Cosacces</hi> began a<g ref="char:EOLhyphen"/>gaine with most terrible fyring and spoyling to sharke into lower <hi>Austria:</hi> and sparing neither Protestants nor Papists, procured so great enuy to themselues amongst all, in so much that they were partly slaine by their owne fellowe souldiers: namely, the <hi>Wal<g ref="char:EOLhyphen"/>lons,</hi> for committing of sacriledge, and part<g ref="char:EOLhyphen"/>ly were sent prisoners to <hi>Creames.</hi>
+               </p>
+               <p>The Emperour by Proclamation required the <hi>Austrians</hi> to take the oath of allegiance, or else to bee denounced and proceeded against as Rebels: but it is apparent, that as the Emperour propounded this in a bad time, so that they will followe the course of the world, most to regard the arising King of <hi>Bohemia.</hi>
+               </p>
+               <p>And as in a falling house the lesser tim<g ref="char:EOLhyphen"/>ber followeth the greater, so doth it befall the Emperour: for euen those Souldiers who sometime had tarried in <hi>Veteraui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> as wee saide afore, and could not obtaine pas<g ref="char:EOLhyphen"/>sage, being repelled by the Counts of <hi>Vetera<g ref="char:EOLhyphen"/>uia,</hi> when they had also beene very trouble<g ref="char:EOLhyphen"/>some to the countrey people in the territo<g ref="char:EOLhyphen"/>rie of <hi>Triers,</hi> endeauoured to passe ouer in<g ref="char:EOLhyphen"/>to the Diocesse of <hi>Colen:</hi> but the countrey
+<pb n="33" facs="tcp:193599:16"/>people resisted them with such force, that al<g ref="char:EOLhyphen"/>though they had fired some of their villa<g ref="char:EOLhyphen"/>ges, yet the fire beeing neglected, they slew many of the souldiers, and compelled the re<g ref="char:EOLhyphen"/>sidue to flie.</p>
+               <p>Of them also who hauing obtained pas<g ref="char:EOLhyphen"/>sage, were come to the borders of <hi>Bauaria,</hi> some of them falling into sedition, rent their colours, and went to serue vnder <hi>Mar<g ref="char:EOLhyphen"/>quesse Onoltzbac,</hi> and the others returned home.</p>
+               <p>The Marquesse of <hi>Durlach</hi> with an Army of the vnited Electors and States is gone to <hi>Briscoue,</hi> and abideth in the middest betwixt <hi>Brisac</hi> and <hi>Friburg,</hi> and hath signified to the bordering States, that hee is commaunded to hinder the passage of souldiers into <hi>Al<g ref="char:EOLhyphen"/>satia.</hi>
+               </p>
+               <p>Not long after <hi>Leopold</hi> the Arch Duke sent Embassadors to entreat passage for his souldiers, to whom the Marquesse answe<g ref="char:EOLhyphen"/>red, that hee could not: but that they should goe vnto <hi>On<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tzbac</hi> there to obtaine leaue.</p>
+               <p>It is also reported, and that by especi<g ref="char:EOLhyphen"/>all good and great intelligence, that since <hi>Bucquoy</hi> his ouerthrowe, some three thou<g ref="char:EOLhyphen"/>sand Italians comming to <hi>Budwitz,</hi> and thence passing forward in <hi>Bohemia,</hi> were met by
+<pb n="34" facs="tcp:193599:17"/>some of the King of <hi>Bohemia</hi> his forces, where after skirmish they being rowted, fled backe againe to <hi>Budwitz,</hi> leauing dead behind them, about some fiue hundred of their company.</p>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:193599:17"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
